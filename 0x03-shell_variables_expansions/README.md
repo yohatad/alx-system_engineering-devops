@@ -1,1 +1,1 @@
-Project on shell, init files, variables, and expansions from
+This is a readme

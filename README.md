@@ -1,2 +1,1 @@
-alx-system
-another project
+This repo is the alx system engineering and devops repo

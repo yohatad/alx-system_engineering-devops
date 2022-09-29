@@ -1,1 +1,1 @@
-All the files for the shell redirections projects
+This folder contains answers for the bash execises
